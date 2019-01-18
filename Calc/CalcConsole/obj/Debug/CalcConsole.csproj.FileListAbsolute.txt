@@ -1,0 +1,8 @@
+c:\Users\student\documents\visual studio 2015\Projects\Calc\CalcConsole\bin\Debug\CalcConsole.exe.config
+c:\Users\student\documents\visual studio 2015\Projects\Calc\CalcConsole\bin\Debug\CalcConsole.exe
+c:\Users\student\documents\visual studio 2015\Projects\Calc\CalcConsole\bin\Debug\CalcConsole.pdb
+c:\Users\student\documents\visual studio 2015\Projects\Calc\CalcConsole\bin\Debug\Calc.dll
+c:\Users\student\documents\visual studio 2015\Projects\Calc\CalcConsole\bin\Debug\Calc.pdb
+c:\Users\student\documents\visual studio 2015\Projects\Calc\CalcConsole\obj\Debug\CalcConsole.csprojResolveAssemblyReference.cache
+c:\Users\student\documents\visual studio 2015\Projects\Calc\CalcConsole\obj\Debug\CalcConsole.exe
+c:\Users\student\documents\visual studio 2015\Projects\Calc\CalcConsole\obj\Debug\CalcConsole.pdb
